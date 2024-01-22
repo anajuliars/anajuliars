@@ -1,4 +1,4 @@
-## Olá! Eu sou a Ana Júlia Oliveira 👋  
+## Olá! Eu sou a Ana Júlia Oliveira 
 
 - Analista de sistemas com foco em Documentação Técnica
   
