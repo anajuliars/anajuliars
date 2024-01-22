@@ -1,5 +1,4 @@
 <h1 align="center">Oi 👋, me chamo Ana Júlia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 Atualmente estou trabalhando como analista de sistemas com foco em documentação técnica **Migração Web**
 
