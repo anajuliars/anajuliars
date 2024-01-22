@@ -1,11 +1,13 @@
 ## Olá! Eu sou a Ana Júlia Oliveira 👋  
 
-- 🔭 Atualmente estou trabalhando como analista de sistemas
+- 🔭 Analista de sistemas com foco em Documentação Técnica
 
 - 👯 Trabalho na empresa **Touchcomp**
   
 
-    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j%C3%BAlia-oliveira-113430151/)  [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anajuliarodrigues@gmail.com)      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anajuliars&show_icons=true&theme=radical)
+    [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-j%C3%BAlia-oliveira-113430151/)  [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anajuliarodrigues@gmail.com)      
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anajuliars&show_icons=true&theme=radical)
  
 ## Tecnologias que uso no meu dia  
   
