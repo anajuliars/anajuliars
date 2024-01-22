@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ana Júlia Oliveira 👋  
 
-- 🔭 Atualmente estou trabalhando como analista de sistemas com foco em documentação técnica **Migração Web**
+- 🔭 Atualmente estou trabalhando como analista de sistemas
 
 - 👯 Trabalho na empresa **Touchcomp**
 
